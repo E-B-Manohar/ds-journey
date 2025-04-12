@@ -15,15 +15,7 @@
   "icon": "laptop",
   "pages": [
     {
-      "id": "Courses",
-      "isDefault": false
-    },
-    {
-      "id": "Modules",
-      "isDefault": false
-    },
-    {
-      "id": "Content",
+      "id": "Content2",
       "isDefault": false
     },
     {
