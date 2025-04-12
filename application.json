@@ -1,13 +1,37 @@
 {
   "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
   "color": "#F1DEFF",
+  "embedSetting": {
+    "height": "720px",
+    "showNavigationBar": false,
+    "width": "1024px"
+  },
   "evaluationVersion": 2,
+  "icon": "laptop",
   "pages": [
     {
-      "id": "HomePage",
+      "id": "Courses",
+      "isDefault": false
+    },
+    {
+      "id": "Modules",
+      "isDefault": false
+    },
+    {
+      "id": "Content",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
       "isDefault": true
     }
-  ]
+  ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  }
 }
